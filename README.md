@@ -1,6 +1,6 @@
 <h2 align="left">Hello there 👋</h2>
 
-<h1>I'm</h1> ![Learning C++](https://img.shields.io/badge/-Currenty_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+I'm ![Learning C++](https://img.shields.io/badge/-Currenty_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=yellow)![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=black)![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
