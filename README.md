@@ -1,4 +1,4 @@
-![C++ Learning](https://img.shields.io/badge/C++-Currentlylearning-blue.svg?style=flat&logo=c%2B%2B)
+(![Learning](https://img.shields.io/badge/-Currenty%20learning-grey)
 <!--
 **Cod3Druid/Cod3Druid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
