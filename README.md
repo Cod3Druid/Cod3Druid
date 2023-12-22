@@ -1,10 +1,26 @@
 <h2 align="left">Hello folks! 👋 I am happy to be here. 😄</h2>
 
-![Learning C++](https://img.shields.io/badge/-I'm_currently_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+![Learning C++](https://img.shields.io/badge/-Currently_learning_⇒-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
-![Motto](https://img.shields.io/badge/-I_like_to_say_→-blue?style=for-the-badge)![Crypto](https://img.shields.io/badge/-Hodl-1f7d00?style=for-the-badge)![Bitcoin](https://img.shields.io/badge/Bitcoin-ac914d?style=for-the-badge&logo=bitcoin&logoColor=yellow)![Litecoin](https://img.shields.io/badge/Litecoin-62785b?style=for-the-badge&logo=Litecoin&logoColor=black)![Monero](https://img.shields.io/badge/monero-202e52?style=for-the-badge&logo=monero&logoColor=white)![Stfu](https://img.shields.io/badge/-and_STFU_😊-ff0022?style=for-the-badge)
+![Interested in](https://img.shields.io/badge/-Interested_in_⇒-0A0A0A)![Software Engineering](https://img.shields.io/badge/-software_engineering-blue)![and](https://img.shields.io/badge/-and-126e1e)![Cyber-Security](https://img.shields.io/badge/-cyber--security-8f294b)
 
+<br>
+<hr style="border: none; height: 2px; background: #333; border-radius: 2px;">
 
+<p align="center">
+  <a href="https://discord.gg/X">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://telegram.org">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://twitter.com/X">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Cod3Druid&&style=flat-square" align="center" />
+</div>  
 
 <!--
 **Cod3Druid/Cod3Druid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
