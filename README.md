@@ -1,4 +1,4 @@
-<h2 align="left">Hello folks! 👋 I am happy to be here. 😄</h2>
+<h2 align="left">Sup folks 👋 I am happy to be here 😄</h2>
 
 ![Learning C++](https://img.shields.io/badge/-Currently_learning_⇒-8A2BE2) ![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
