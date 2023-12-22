@@ -1,6 +1,6 @@
 <h2 align="left">Hello folks! 👋 I am happy to be here. 😄</h2>
 
-![Learning C++](https://img.shields.io/badge/-Currently_learning_⇒-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+![Learning C++](https://img.shields.io/badge/-Currently_learning_⇒-8A2BE2) ![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
 ![Interested in](https://img.shields.io/badge/-Interested_in_⇒-0A0A0A) ![Software Engineering](https://img.shields.io/badge/-software_engineering-blue) ![and](https://img.shields.io/badge/-and-126e1e) ![Cyber-Security](https://img.shields.io/badge/-cyber--security-8f294b)
 
