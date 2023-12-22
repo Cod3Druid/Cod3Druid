@@ -11,12 +11,12 @@
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-a80008?&logo=youtube&logoColor=white" alt="Youtube"></a>
 </div>  
 <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Cod3Druid&&style=flat-square" align="center" />
 </div>  
-
 <!--
 **Cod3Druid/Cod3Druid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
