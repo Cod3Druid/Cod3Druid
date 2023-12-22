@@ -1,6 +1,6 @@
 <h2 align="left">Hello folks! 👋 I am happy to be here. 😄</h2>
 
-![Learning C++](https://img.shields.io/badge/-I'm_currenty_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+![Learning C++](https://img.shields.io/badge/-I'm_currently_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
 ![Motto](https://img.shields.io/badge/-I_like_to_say_→-blue?style=for-the-badge)![Crypto](https://img.shields.io/badge/-Hodl-1f7d00?style=for-the-badge)![Bitcoin](https://img.shields.io/badge/Bitcoin-ac914d?style=for-the-badge&logo=bitcoin&logoColor=yellow)![Litecoin](https://img.shields.io/badge/Litecoin-62785b?style=for-the-badge&logo=Litecoin&logoColor=black)![Monero](https://img.shields.io/badge/monero-202e52?style=for-the-badge&logo=monero&logoColor=white)![Stfu](https://img.shields.io/badge/-and_STFU_😊-ff0022?style=for-the-badge)
 
