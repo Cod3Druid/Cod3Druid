@@ -1,6 +1,6 @@
-<h2 align="left">Hello there 👋</h2>
+<h2 align="left">Hello folks! 👋 I am happy to be here. 😄</h2>
 
-![Learning C++](https://img.shields.io/badge/-Currenty_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+![Learning C++](https://img.shields.io/badge/-I'm_currenty_learning-8A2BE2)![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
 
 <!--
