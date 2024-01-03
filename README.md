@@ -1,4 +1,5 @@
-<h2 align="left">Sup folks 👋 I am happy to be here 😄</h2>
+Sup folks <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" height="35"> I am happy to be here 😄
+============================================================================================================================================================================
 
 ![Learning C++](https://img.shields.io/badge/-Currently_learning_⇒-8A2BE2) ![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
