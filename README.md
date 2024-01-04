@@ -1,11 +1,9 @@
-Sup folks 👋 I am happy to be here 😄
-======================================
+<h2>Sup folks 👋 My name is Court and i’m excited to be here 😄</h2>
 
 ![Learning C++](https://img.shields.io/badge/-Currently_learning_⇒-8A2BE2) ![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 
 ![Interested in](https://img.shields.io/badge/-Interested_in_⇒-0A0A0A) ![Software Engineering](https://img.shields.io/badge/-software_engineering-blue) ![and](https://img.shields.io/badge/-and-126e1e) ![Cyber-Security](https://img.shields.io/badge/-cyber--security-8f294b)
 
-<br>
 <hr style="border: none; height: 2px; background: #333; border-radius: 2px;">
 
 <div align="center">
@@ -18,17 +16,3 @@ Sup folks 👋 I am happy to be here 😄
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Cod3Druid&&style=flat-square" align="center" />
 </div>  
-<!--
-**Cod3Druid/Cod3Druid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
